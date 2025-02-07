@@ -24,3 +24,8 @@ To install the required dependencies, use the following command:
 ```bash
 pip install -r requirements.txt
 ```
+# Endpoints
+```
+https://api.mullvad.net/www/relays/all/?action=query&titles=Alex&format=json&formatversion=2
+https://api.mullvad.net/network/v1-beta1/socks-proxies
+```
